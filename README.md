@@ -58,6 +58,14 @@ coffee/
     ├── our-story.avif
     └── footer-img.avif
 
+## 📖 Description
+
+This Coffee Shop Landing Page is a responsive and visually appealing static website built with **HTML5 and CSS3**. The project is designed to showcase a coffee shop's brand, popular coffee products, opening hours, story, and promotional information in a clean and modern layout.
+
+The landing page includes a **hero section with a background image and overlay, navigation bar, call-to-action button, brand story section, popular coffee products, opening hours, and a promotional banner**. CSS Flexbox, Grid, positioning, gradients, hover effects, and background images were used to create the overall design and layout.
+
+This project was created to strengthen fundamental **HTML and CSS skills**, particularly in building structured webpages, creating responsive layouts, and applying modern CSS styling techniques.
+
 ##  Project Live Link
 
 Link: https://shafin-ahmed-201.github.io/Coffee-Store_CS-1/
