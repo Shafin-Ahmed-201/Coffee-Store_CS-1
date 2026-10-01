@@ -57,7 +57,7 @@ coffee/
     ├── cup.png
     ├── our-story.avif
     └── footer-img.avif
-
+```
 ## 📖 Description
 
 This Coffee Shop Landing Page is a responsive and visually appealing static website built with **HTML5 and CSS3**. The project is designed to showcase a coffee shop's brand, popular coffee products, opening hours, story, and promotional information in a clean and modern layout.
